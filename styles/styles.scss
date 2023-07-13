@@ -94,7 +94,6 @@ section{
         0%{
             transform: translateY(-100%) scale(0);
         }
-
         100%{
             transform: translateY(0) scaleY(1);
         }
@@ -133,7 +132,7 @@ section{
         .i{
             font-size: 1.2rem;
             color: var(--color-grey2);
-            pointer-events: none;
+            // pointer-events: none;
         }
     }
 
